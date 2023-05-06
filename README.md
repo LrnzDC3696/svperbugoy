@@ -6,4 +6,4 @@ Svperbugoy Automation Scripts for Debian
 
 `sudo root`
 `apt-get install curl`
-`curl -sSL https://raw.githubusercontent.com/LrnzDC3696/svperbugoy/main/install.sh`
+`curl -sSL https://raw.githubusercontent.com/LrnzDC3696/svperbugoy/main/install.sh | sh`
